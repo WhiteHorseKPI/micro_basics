@@ -29,8 +29,3 @@ client → facade-service → { messages-service, logging-service }
 ### Running Locally
 
 - Build and start each service in Docker
-   ```
-4. Use API endpoints (via the facade) to test flows, e.g. via curl or Postman.
-
-
-If you like, I can also format this README in Markdown with badges, CI integration, or generate diagram graphics. Do you want me to produce that?
